@@ -34,7 +34,10 @@
   "dos": "https://api.dashboard.3dos.io/api",
   "quackai": "https://app-api.quackai.ai",
   "solix": "https://api.solixdepin.net/api",
-
+  "spekter": {
+    "api": "https://api.app.spekteragency.io",
+    "version": "0.6.0"
+  },
   "kite": {
     "agents": {
       "deployment_Hp4Y88pxNQXwLMPxlLICJZzN": "Kite AI Assistant",
