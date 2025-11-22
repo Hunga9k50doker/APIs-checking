@@ -36,7 +36,7 @@
   "solix": "https://api.solixdepin.net/api",
   "spekter": {
     "api": "https://api.app.spekteragency.io",
-    "version": "0.6.0"
+    "version": "0.6.2"
   },
   "kite": {
     "agents": {
